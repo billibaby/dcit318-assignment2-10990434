@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\bin\Debug\net8.0\oopinheritance.exe
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\bin\Debug\net8.0\oopinheritance.deps.json
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\bin\Debug\net8.0\oopinheritance.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\bin\Debug\net8.0\oopinheritance.dll
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\bin\Debug\net8.0\oopinheritance.pdb
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.dll
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\refint\oopinheritance.dll
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.pdb
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\oopinheritance.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\dcit318-assignment2-10990434\oopinheritance\obj\Debug\net8.0\ref\oopinheritance.dll
